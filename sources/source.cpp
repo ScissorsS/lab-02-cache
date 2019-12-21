@@ -121,5 +121,3 @@ void Cache::resultWindow(std::string const &travelVariant,
     std::cout << "results: " << std::endl;
     std::cout << "duration: " << timeOfArray << std::endl;
 }
-
-

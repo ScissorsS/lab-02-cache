@@ -52,5 +52,3 @@ public:
 };
 
 #endif // INCLUDE_HEADER_HPP_
-
-
